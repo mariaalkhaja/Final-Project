@@ -11,12 +11,12 @@ I want to word independently to create a fun arcade game where the user can choo
 
  Project plan:
  
-     	Description of Work	Start and End Dates
-Phase One	Create characters and traits 	…
-Phase Two	Create background and adjust key controls	…
-Phase Three	Add barriers, sound effects, score count	…
-Phase Four	Add coins, coin counter, and items to buy using coins 	…
-Phase Five	Adjust number of lives and add/fix minor details	…
+Description of Work
+Phase One: 	Create characters and traits 
+Phase Two:	Create background and adjust key controls
+Phase Three:	Add barriers, sound effects, score count
+Phase Four:	Add coins, coin counter, and items to buy using coins 
+Phase Five:	Adjust number of lives and add/fix minor details	
 
 
 
