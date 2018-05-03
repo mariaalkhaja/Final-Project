@@ -1,27 +1,7 @@
 # Final-Project
 
-Final Project Proposal
+# r1.zip
 
-
-Project Description
-I want to word independently to create a fun arcade game where the user can choose one of a number characters’ to try to climb the Burj Khalifa tower. The climb will not be easy however, as there will be broken windows, objects falling down the sky, some clouds blurring the view, and other barriers. There will also be some coins and dimes which earn the user more points. The character will continuously keep moving up, and the speed will increase as it goes higher. The user can only move the character right or left. If the player reaches the top of the tower, then he wins and earns some coins. The character has three lives per game, and will die if its hit by a barrier for the third time. 
-
-
-
-
- Project plan:
- 
-Description of Work
-
-Phase One: 	Create characters and traits 
-
-Phase Two:	Create background and adjust key controls
-
-Phase Three:	Add barriers, sound effects, score count
-
-Phase Four:	Add coins, coin counter, and items to buy using coins 
-
-Phase Five:	Adjust number of lives and add/fix minor details	
-
+I have started with my project a little late because there were issues with github and getting an approval. However, so far I have already created the game scene. It has a blue background with clouds and a huge burj khalifa tower. There are platforms which the character should jump on to reach the top of the tower, and there are coins for the character to collect. I will add enemies such as bees and birds that the character has to avoid. The platforms and coins are already in place. The character can move right, left, or jump. I still need to fix the issue with gravity, throughout the game, the platform countinuosly moves down, but the ground only moves down if the platform has character is standing on, and stays at the original location of the platform when the game started, although the platform has down. Morever, as I have chosen to work idependently on this project, it turned out to be way more time consuming than I expected, so there are still a number of things that I have not implemeted yet. I am still searching for enemies, things that would fall down from the sky, and I want to add a leaderboard, more characters, game loss, and  also implement the sound effects with I have already found and saved as mp3 files. Overall, the most time-consuming part is almost done, and the project is going well. 
 
 
